@@ -1,0 +1,417 @@
+<!--TEMPLATE_NAME-->Forum Posting Template with BBCode Tables includes Equipment<!--/TEMPLATE_NAME-->
+<!--TEMPLATE_DESCRIPTION-->Template for exporting data for posting on Hero Games forum using tables from BBCode - This produces a result similar to the original HTML template before the boards were restricted from using HTML.<!--/TEMPLATE_DESCRIPTION-->
+<!--FILE_EXTENSION-->txt<!--/FILE_EXTENSION-->
+[b]<!--CHARACTER_NAME--> - <!--ALTERNATE_IDS-->[/b]
+
+[table]
+	[tr]
+		[td="align: center"][b]VAL[/b][/td]
+		[td="align: center"][b]CHA[/b][/td]
+		[td="align: center"][b]Cost[/b][/td]
+		[td="align: center"][b]Total[/b][/td]
+		[td="align: center"][b]Roll[/b][/td]
+		[td="align: left"][b]Notes[/b][/td]
+	[/tr]
+<!--STR-->
+	[tr]
+		[td="align: center"]<!--PRIMARY-->[/td]
+		[td="align: center"]STR[/td]
+		[td="align: center"]<!--STR_COST-->[/td]
+		[td="align: center"]<!--STR_TOTAL-->[/td]
+		[td="align: center"]<!--STR_ROLL-->[/td]
+		[td="align: left"]<!--STR_NOTES-->[/td]
+	[/tr]
+<!--/STR-->
+<!--DEX-->
+	[tr]
+		[td="align: center"]<!--PRIMARY-->[/td]
+		[td="align: center"]DEX[/td]
+		[td="align: center"]<!--DEX_COST-->[/td]
+		[td="align: center"]<!--DEX_TOTAL-->[/td]
+		[td="align: center"]<!--DEX_ROLL-->[/td]
+		[td="align: left"]<!--DEX_NOTES-->[/td]
+	[/tr]
+<!--/DEX-->
+<!--CON-->
+	[tr]
+		[td="align: center"]<!--PRIMARY-->[/td]
+		[td="align: center"]CON[/td]
+		[td="align: center"]<!--CON_COST-->[/td]
+		[td="align: center"]<!--CON_TOTAL-->[/td]
+		[td="align: center"]<!--CON_ROLL-->[/td]
+		[td="align: left"][/td]
+	[/tr]
+<!--/CON-->
+<!--INT-->
+	[tr]
+		[td="align: center"]<!--PRIMARY-->[/td]
+		[td="align: center"]INT[/td]
+		[td="align: center"]<!--INT_COST-->[/td]
+		[td="align: center"]<!--INT_TOTAL-->[/td]
+		[td="align: center"]<!--INT_ROLL-->[/td]
+		[td="align: left"]<!--INT_NOTES-->[/td]
+	[/tr]
+<!--/INT-->
+<!--EGO-->
+	[tr]
+		[td="align: center"]<!--PRIMARY-->[/td]
+		[td="align: center"]EGO[/td]
+		[td="align: center"]<!--EGO_COST-->[/td]
+		[td="align: center"]<!--EGO_TOTAL-->[/td]
+		[td="align: center"]<!--EGO_ROLL-->[/td]
+		[td="align: left"]<!--EGO_NOTES-->[/td]
+	[/tr]
+<!--/EGO-->
+<!--PRE-->
+	[tr]
+		[td="align: center"]<!--PRIMARY-->[/td]
+		[td="align: center"]PRE[/td]
+		[td="align: center"]<!--PRE_COST-->[/td]
+		[td="align: center"]<!--PRE_TOTAL-->[/td]
+		[td="align: center"]<!--PRE_ROLL-->[/td]
+		[td="align: left"]<!--PRE_NOTES-->[/td]
+	[/tr]
+<!--/PRE-->
+<!--OCV_CHAR-->
+	[tr]
+		[td="align: center"]<!--PRIMARY-->[/td]
+		[td="align: center"]OCV[/td]
+		[td="align: center"]<!--OCV_CHAR_COST-->[/td]
+		[td="align: center"]<!--OCV_CHAR_TOTAL-->[/td]
+		[td="align: center"][/td]
+		[td="align: left"]<!--OCV_CHAR_NOTES-->[/td]
+	[/tr]
+<!--/OCV_CHAR-->
+<!--DCV_CHAR-->
+	[tr]
+		[td="align: center"]<!--PRIMARY-->[/td]
+		[td="align: center"]DCV[/td]
+		[td="align: center"]<!--DCV_CHAR_COST-->[/td]
+		[td="align: center"]<!--DCV_CHAR_TOTAL-->[/td]
+		[td="align: center"][/td]
+		[td="align: left"]<!--DCV_CHAR_NOTES-->[/td]
+	[/tr]
+<!--/DCV_CHAR-->
+<!--OMCV-->
+	[tr]
+		[td="align: center"]<!--PRIMARY-->[/td]
+		[td="align: center"]OMCV[/td]
+		[td="align: center"]<!--OMCV_COST-->[/td]
+		[td="align: center"]<!--OMCV_TOTAL-->[/td]
+		[td="align: center"][/td]
+		[td="align: left"]<!--OMCV_NOTES-->[/td]
+	[/tr]
+<!--/OMCV-->
+<!--DMCV-->
+	[tr]
+		[td="align: center"]<!--PRIMARY-->[/td]
+		[td="align: center"]DMCV[/td]
+		[td="align: center"]<!--DMCV_COST-->[/td]
+		[td="align: center"]<!--DMCV_TOTAL-->[/td]
+		[td="align: center"][/td]
+		[td="align: left"]<!--DMCV_NOTES-->[/td]
+	[/tr]
+<!--/DMCV-->
+<!--PD-->
+	[tr]
+		[td="align: center"]<!--PRIMARY-->[/td]
+		[td="align: center"]PD[/td]
+		[td="align: center"]<!--PD_COST-->[/td]
+		[td="align: center"]<!--PD_TOTAL-->[/td]
+		[td="align: center"][/td]
+		[td="align: left"]<!--PD_NOTES-->[/td]
+	[/tr]
+<!--/PD-->
+<!--ED-->
+	[tr]
+		[td="align: center"]<!--PRIMARY-->[/td]
+		[td="align: center"]ED[/td]
+		[td="align: center"]<!--ED_COST-->[/td]
+		[td="align: center"]<!--ED_TOTAL-->[/td]
+		[td="align: center"][/td]
+		[td="align: left"]<!--ED_NOTES-->[/td]
+	[/tr]
+<!--/ED-->
+<!--SPD-->
+	[tr]
+		[td="align: center"]<!--PRIMARY-->[/td]
+		[td="align: center"]SPD[/td]
+		[td="align: center"]<!--SPD_COST-->[/td]
+		[td="align: center"]<!--SPD_TOTAL-->[/td]
+		[td="align: center"][/td]
+		[td="align: left"]<!--SPD_NOTES-->[/td]
+	[/tr]
+<!--/SPD-->
+<!--REC-->
+	[tr]
+		[td="align: center"]<!--PRIMARY-->[/td]
+		[td="align: center"]REC[/td]
+		[td="align: center"]<!--REC_COST-->[/td]
+		[td="align: center"]<!--REC_TOTAL-->[/td]
+		[td="align: center"][/td]
+		[td="align: left"][/td]
+	[/tr]
+<!--/REC-->
+<!--END-->
+	[tr]
+		[td="align: center"]<!--PRIMARY-->[/td]
+		[td="align: center"]END[/td]
+		[td="align: center"]<!--END_COST-->[/td]
+		[td="align: center"]<!--END_TOTAL-->[/td]
+		[td="align: center"][/td]
+		[td="align: left"][/td]
+	[/tr]
+<!--/END-->
+<!--BODY-->
+	[tr]
+		[td="align: center"]<!--PRIMARY-->[/td]
+		[td="align: center"]BODY[/td]
+		[td="align: center"]<!--BODY_COST-->[/td]
+		[td="align: center"]<!--BODY_TOTAL-->[/td]
+		[td="align: center"][/td]
+		[td="align: left"][/td]
+	[/tr]
+<!--/BODY-->
+<!--STUN-->
+	[tr]
+		[td="align: center"]<!--PRIMARY-->[/td]
+		[td="align: center"]STUN[/td]
+		[td="align: center"]<!--STUN_COST-->[/td]
+		[td="align: center"]<!--STUN_TOTAL-->[/td]
+		[td="align: center"][/td]
+		[td="align: left"][/td]
+	[/tr]
+<!--/STUN-->
+[/table]
+
+[table]
+	[tr]
+		[td][b]Movement[/b][/td]
+		[td][b]Combat[/b][/td]
+		[td][b]NCmbat[/b][/td]
+		[td][b]Notes[/b][/td]
+	[/tr]
+<!--IF_RUNNING-->
+	[tr]
+		[td]Running[/td]
+		[td="align: center"]<!--RUNNING_TOTAL-->[/td]
+		[td="align: center"]<!--RUNNING_TOTAL_NONCOMBAT-->[/td]
+		[td="align: left"]<!--RUNNING--><!--RUNNING_NOTES--><!--/RUNNING-->[/td]
+	[/tr]
+<!--/IF_RUNNING-->
+<!--IF_SWIMMING-->
+	[tr]
+		[td]Swimming[/td]
+		[td="align: center"]<!--SWIMMING_TOTAL-->[/td]
+		[td="align: center"]<!--SWIMMING_TOTAL_NONCOMBAT-->[/td]
+		[td="align: left"]<!--SWIMMING--><!--SWIMMING_NOTES--><!--/SWIMMING-->[/td]
+	[/tr]
+<!--/IF_SWIMMING-->
+<!--IF_LEAPING-->
+	[tr]
+		[td]Leaping[/td]
+		[td="align: center"]<!--LEAPING_TOTAL-->[/td]
+		[td="align: center"]<!--LEAPING_TOTAL_NONCOMBAT-->[/td]
+		[td="align: left"]<!--LEAPING--><!--LEAPING_NOTES--><!--/LEAPING-->[/td]
+	[/tr]
+<!--/IF_LEAPING-->
+<!--IF_FLIGHT-->
+	[tr]
+		[td]Flight[/td]
+		[td="align: center"]<!--FLIGHT_TOTAL-->[/td]
+		[td="align: center"]<!--FLIGHT_TOTAL_NONCOMBAT-->[/td]
+		[td] [/td]
+	[/tr]
+<!--/IF_FLIGHT-->
+<!--IF_SWINGING-->
+	[tr]
+		[td]Swinging[/td]
+		[td="align: center"]<!--SWINGING_TOTAL-->[/td]
+		[td="align: center"]<!--SWINGING_TOTAL_NONCOMBAT-->[/td]
+		[td] [/td]
+	[/tr]
+<!--/IF_SWINGING-->
+<!--IF_TELEPORTATION-->
+	[tr]
+		[td]Teleportation[/td]
+		[td="align: center"]<!--TELEPORTATION_TOTAL-->[/td]
+		[td="align: center"]<!--TELEPORTATION_TOTAL_NONCOMBAT-->[/td]
+		[td] [/td]
+	[/tr]
+<!--/IF_TELEPORTATION-->
+<!--IF_TUNNELING-->
+	[tr]
+		[td]Tunneling[/td]
+		[td="align: center"]<!--TUNNELING_TOTAL-->[/td]
+		[td="align: center"]<!--TUNNELING_TOTAL_NONCOMBAT-->[/td]
+		[td] [/td]
+	[/tr]
+<!--/IF_TUNNELING-->
+[/table]<!--IFPOWERS-->
+
+[table="width: 1024"]
+	[tr]
+		[td][b]Cost[/b][/td]
+		[td][b]POWERS[/b][/td]
+		[td][b]END[/b][/td]
+	[/tr]
+<!--POWERS-->
+	[tr]
+		[td="align: right"]<!--COST-->[/td]
+		[td]<!--IFLIST--><!--LISTPREFIX--><!--/IFLIST--><!--IFNAME-->[b][i]<!--NAME-->: [/i][/b]<!--/IFNAME--><!--IF_COMPOUND_POWER--><!--COMPONENT_POWERS--><!--IFNAME-->
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [b][i]<!--NAME-->: [/i][/b]<!--/IFNAME--><!--TEXT--><!--IFNOTES--> [[b]Notes:[/b] <!--NOTES-->]<!--/IFNOTES--><!--/COMPONENT_POWERS--><!--/IF_COMPOUND_POWER--><!--IF_NOT_COMPOUND_POWER--><!--TEXT--><!--IFNOTES--> [[b]Notes:[/b] <!--NOTES-->]<!--/IFNOTES--><!--/IF_NOT_COMPOUND_POWER-->[/td]
+		[td="align: right"]<!--POWER_END-->[/td]
+	[/tr]
+<!--/POWERS-->
+[/table]<!--/IFPOWERS--><!--IFMARTIAL_ARTS-->
+
+[table]
+	[tr]
+		[td][b]Cost[/b][/td]
+		[td][b]MARTIAL ARTS[/b][/td]
+	[/tr]
+<!--MARTIAL_ARTS-->
+	[tr]
+		[td="align: right"]<!--MA_COST-->[/td]
+		[td]<!--IFLIST--><!--LISTPREFIX--><!--/IFLIST--><!--IFNAME-->[b][i]<!--NAME-->: [/i][/b]<!--/IFNAME--><!--MA_TEXT--><!--IFNOTES--> [[b]Notes: [/b]<!--MA_NOTES-->]<!--/IFNOTES-->[/td]
+	[/tr]
+<!--/MARTIAL_ARTS-->
+[/table]<!--/IFMARTIAL_ARTS--><!--IFSKILLS-->
+
+[table]
+	[tr]
+		[td][b]Cost[/b][/td]
+		[td][b]SKILLS[/b][/td]
+	[/tr]
+<!--SKILLS-->
+	[tr]
+		[td="align: right"]<!--SKILL_COST-->[/td]
+		[td]<!--IFLIST--><!--LISTPREFIX--><!--/IFLIST--><!--IFNAME-->[b][i]<!--NAME-->: [/i][/b]<!--/IFNAME--><!--SKILL_TEXT--><!--IFNOTES--> [[b]Notes:[/b] <!--SKILL_NOTES-->]<!--/IFNOTES-->[/td]
+	[/tr]
+<!--/SKILLS-->
+[/table]<!--/IFSKILLS--><!--IFPERKS-->
+
+[table]
+	[tr]
+		[td][b]Cost[/b][/td]
+		[td][b]PERKS[/b][/td]
+	[/tr]
+<!--PERKS-->
+	[tr]
+		[td="align: right"]<!--PERK_COST-->[/td]
+		[td]<!--IFLIST--><!--LISTPREFIX--><!--/IFLIST--><!--IFNAME-->[b][i]<!--NAME-->: [/i][/b]<!--/IFNAME--><!--PERK_TEXT--><!--IFNOTES--> [[b]Notes:[/b] <!--PERK_NOTES-->]<!--/IFNOTES-->[/td]
+	[/tr]
+<!--/PERKS-->
+[/table]<!--/IFPERKS--><!--IFTALENTS-->
+
+[table]
+	[tr]
+		[td][b]Cost[/b][/td]
+		[td][b]TALENTS[/b][/td]
+	[/tr]
+<!--TALENTS-->
+	[tr]
+		[td="align: right"]<!--TALENT_COST-->[/td]
+		[td]<!--IFLIST--><!--LISTPREFIX--><!--/IFLIST--><!--IFNAME-->[b][i]<!--NAME-->: [/i][/b]<!--/IFNAME--><!--TALENT_TEXT--><!--IFNOTES--> [[b]Notes:[/b] <!--TALENT_NOTES-->]<!--/IFNOTES-->[/td]
+	[/tr]
+<!--/TALENTS-->
+[/table]<!--/IFTALENTS--><!--IFEQUIPMENT-->
+
+[table]
+	[tr]
+		[td][b]Cost[/b][/td]
+		[td][b]EQUIPMENT[/b][/td]
+	[/tr]
+<!--EQUIPMENT-->
+	[tr]
+		[td] [/td]
+		[td]<!--IFLIST--><!--LISTPREFIX--><!--/IFLIST--><!--IFNAME-->[b][i]<!--NAME-->: [/i][/b]<!--/IFNAME--><!--IF_COMPOUND_POWER--><!--COMPONENT_POWERS--><!--IFNAME-->
+		- [b][i]<!--NAME-->: [/i][/b]<!--/IFNAME--><!--TEXT--><!--IFNOTES--> [[b]Notes:[/b] <!--NOTES-->]<!--/IFNOTES--><!--/COMPONENT_POWERS--><!--/IF_COMPOUND_POWER--><!--IF_NOT_COMPOUND_POWER--><!--TEXT--><!--IFNOTES--> [[b]Notes:[/b] <!--NOTES-->]<!--/IFNOTES--><!--/IF_NOT_COMPOUND_POWER-->[/td]
+	[/tr]
+<!--/EQUIPMENT-->
+[/table]<!--/IFEQUIPMENT--><!--IFDISADS-->
+
+[table="width: 1024"]
+	[tr]
+		[td][b]COMPLICATIONS[/b][/td]
+		[td="align: right"][b]Value[/b][/td]
+	[/tr]
+<!--DISADS-->
+	[tr]
+		[td]<!--IFLIST--><!--LISTPREFIX--><!--/IFLIST--><!--DISAD_TEXT--><!--IFNOTES--> [[b]Notes:[/b] <!--DISAD_NOTES-->]<!--/IFNOTES-->[/td]
+		[td="align: right"]<!--DISAD_COST-->[/td]
+	[/tr]
+<!--/DISADS-->
+[/table]<!--/IFDISADS--><!--IF_BACKGROUND-->
+
+[table="width: 1024"]
+	[tr]
+		[td][b]BACKGROUND/HISTORY[/b][/td]
+	[/tr]
+	[tr]
+		[td]<!--BACKGROUND--> <!--/BACKGROUND-->[/td]
+	[/tr]
+[/table]<!--/IF_BACKGROUND--><!--IF_CAMPAIGN_USE-->
+
+[table="width: 1024"]
+	[tr]
+		[td][b]CAMPAIGN_USE[/b][/td]
+	[/tr]
+	[tr]
+		[td]<!--CAMPAIGN_USE--> <!--/CAMPAIGN_USE-->[/td]
+	[/tr]
+[/table]<!--/IF_CAMPAIGN_USE--><!--IF_PERSONALITY-->
+
+[table="width: 1024"]
+	[tr]
+		[td][b]PERSONALITY[/b][/td]
+	[/tr]
+	[tr]
+		[td]<!--PERSONALITY--> <!--/PERSONALITY-->[/td]
+	[/tr]
+[/table]<!--/IF_PERSONALITY--><!--IF_QUOTE-->
+
+[table="width: 1024"]
+	[tr]
+		[td][b]QUOTE[/b][/td]
+	[/tr]
+	[tr]
+		[td]<!--QUOTE--> <!--/QUOTE-->[/td]
+	[/tr]
+[/table]<!--/IF_QUOTE--><!--IF_TACTICS-->
+
+[table="width: 1024"]
+	[tr]
+		[td][b]TACTICS[/b][/td]
+	[/tr]
+	[tr]
+		[td]<!--TACTICS--> <!--/TACTICS-->[/td]
+	[/tr]
+[/table]<!--/IF_TACTICS--><!--IF_APPEARANCE-->
+
+[table="width: 1024"]
+	[tr]
+		[td][b]APPEARANCE[/b][/td]
+	[/tr]
+	[tr]
+		[td][b]Height:[/b] <!--HEIGHT-->[/td]
+	[/tr]
+	[tr]
+		[td][b]Weight:[/b] <!--WEIGHT-->[/td]
+	[/tr]
+	[tr]
+		[td][b]Hair:[/b] <!--HAIR_COLOR-->[/td]
+	[/tr]
+	[tr]
+		[td][b]Eyes:[/b] <!--EYE_COLOR-->[/td]
+	[/tr]
+	[tr]
+		[td]<!--APPEARANCE--> <!--/APPEARANCE-->[/td]
+	[/tr]
+[/table]<!--/IF_APPEARANCE-->
+
+[b]Base Pts:[/b] <!--BASE_POINTS-->
+[b]Exp Required:[/b] <!--SPENT_EXP-->
+[b]Total Exp Available:[/b] <!--EARNED_EXP-->
+[b]Exp Unspent:[/b] <!--UNSPENT_EXP-->
+[b]Total Character Cost:[/b] <!--TOTAL_POINTS-->
