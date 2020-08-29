@@ -1,0 +1,394 @@
+[b]Mike "Blazer" Machido[/b]
+
+[table]
+	[tr]
+		[td="align: center"][b]VAL[/b][/td]
+		[td="align: center"][b]CHA[/b][/td]
+		[td="align: center"][b]Cost[/b][/td]
+		[td="align: center"][b]Total[/b][/td]
+		[td="align: center"][b]Roll[/b][/td]
+		[td="align: left"][b]Notes[/b][/td]
+	[/tr]
+
+	[tr]
+		[td="align: center"]15[/td]
+		[td="align: center"]STR[/td]
+		[td="align: center"]5[/td]
+		[td="align: center"]15[/td]
+		[td="align: center"]12-[/td]
+		[td="align: left"]HTH Damage 3d6  END [1][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]18[/td]
+		[td="align: center"]DEX[/td]
+		[td="align: center"]16[/td]
+		[td="align: center"]18[/td]
+		[td="align: center"]13-[/td]
+		[td="align: left"][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]10[/td]
+		[td="align: center"]CON[/td]
+		[td="align: center"]0[/td]
+		[td="align: center"]10[/td]
+		[td="align: center"]11-[/td]
+		[td="align: left"][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]13[/td]
+		[td="align: center"]INT[/td]
+		[td="align: center"]3[/td]
+		[td="align: center"]13[/td]
+		[td="align: center"]12-[/td]
+		[td="align: left"]PER Roll 12-[/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]10[/td]
+		[td="align: center"]EGO[/td]
+		[td="align: center"]0[/td]
+		[td="align: center"]10[/td]
+		[td="align: center"]11-[/td]
+		[td="align: left"][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]10[/td]
+		[td="align: center"]PRE[/td]
+		[td="align: center"]0[/td]
+		[td="align: center"]10[/td]
+		[td="align: center"]11-[/td]
+		[td="align: left"]PRE Attack: 2d6[/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]6[/td]
+		[td="align: center"]OCV[/td]
+		[td="align: center"]15[/td]
+		[td="align: center"]6[/td]
+		[td="align: center"][/td]
+		[td="align: left"][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]6[/td]
+		[td="align: center"]DCV[/td]
+		[td="align: center"]15[/td]
+		[td="align: center"]6[/td]
+		[td="align: center"][/td]
+		[td="align: left"][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]3[/td]
+		[td="align: center"]OMCV[/td]
+		[td="align: center"]0[/td]
+		[td="align: center"]3[/td]
+		[td="align: center"][/td]
+		[td="align: left"][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]3[/td]
+		[td="align: center"]DMCV[/td]
+		[td="align: center"]0[/td]
+		[td="align: center"]3[/td]
+		[td="align: center"][/td]
+		[td="align: left"][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]3[/td]
+		[td="align: center"]PD[/td]
+		[td="align: center"]1[/td]
+		[td="align: center"]3[/td]
+		[td="align: center"][/td]
+		[td="align: left"]3 PD (0 rPD)[/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]2[/td]
+		[td="align: center"]ED[/td]
+		[td="align: center"]0[/td]
+		[td="align: center"]2[/td]
+		[td="align: center"][/td]
+		[td="align: left"]2 ED (0 rED)[/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]3[/td]
+		[td="align: center"]SPD[/td]
+		[td="align: center"]10[/td]
+		[td="align: center"]3[/td]
+		[td="align: center"][/td]
+		[td="align: left"]Phases:  4, 8, 12[/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]5[/td]
+		[td="align: center"]REC[/td]
+		[td="align: center"]1[/td]
+		[td="align: center"]5[/td]
+		[td="align: center"][/td]
+		[td="align: left"][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]20[/td]
+		[td="align: center"]END[/td]
+		[td="align: center"]0[/td]
+		[td="align: center"]20[/td]
+		[td="align: center"][/td]
+		[td="align: left"][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]11[/td]
+		[td="align: center"]BODY[/td]
+		[td="align: center"]1[/td]
+		[td="align: center"]11[/td]
+		[td="align: center"][/td]
+		[td="align: left"][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]23[/td]
+		[td="align: center"]STUN[/td]
+		[td="align: center"]2[/td]
+		[td="align: center"]23[/td]
+		[td="align: center"][/td]
+		[td="align: left"][/td]
+	[/tr]
+
+[/table]
+
+[table]
+	[tr]
+		[td][b]Movement[/b][/td]
+		[td][b]Combat[/b][/td]
+		[td][b]NCmbat[/b][/td]
+		[td][b]Notes[/b][/td]
+	[/tr]
+
+	[tr]
+		[td]Running[/td]
+		[td="align: center"]14m[/td]
+		[td="align: center"]28m[/td]
+		[td="align: left"]END [1][/td]
+	[/tr]
+
+
+	[tr]
+		[td]Swimming[/td]
+		[td="align: center"]4m[/td]
+		[td="align: center"]8m[/td]
+		[td="align: left"]END [1][/td]
+	[/tr]
+
+
+	[tr]
+		[td]Leaping[/td]
+		[td="align: center"]4m[/td]
+		[td="align: center"]8m[/td]
+		[td="align: left"]4m forward, 2m upward[/td]
+	[/tr]
+
+
+
+
+
+[/table]
+
+[table]
+	[tr]
+		[td][b]Cost[/b][/td]
+		[td][b]MARTIAL ARTS[/b][/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"][/td]
+		[td]Basic Martial Arts[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]4[/td]
+		[td]1)  Martial Block:  1/2 Phase, +2 OCV, +2 DCV, Block, Abort[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]4[/td]
+		[td]2)  Martial Strike:  1/2 Phase, +0 OCV, +2 DCV, 5d6 Strike[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]3[/td]
+		[td]3)  Martial Throw:  1/2 Phase, +0 OCV, +1 DCV, 3d6 +v/10, Target Falls[/td]
+	[/tr]
+
+[/table]
+
+[table]
+	[tr]
+		[td][b]Cost[/b][/td]
+		[td][b]SKILLS[/b][/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]10[/td]
+		[td]+1 with All Attacks[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]7[/td]
+		[td]AK: American Southwest 16-[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]7[/td]
+		[td]Combat Driving 15-[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]7[/td]
+		[td]Combat Piloting 15-[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]3[/td]
+		[td]Concealment 12-[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]5[/td]
+		[td]CuK: Alien Culture and Notables 14-[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]5[/td]
+		[td]KS: Tech Underground 14-[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]2[/td]
+		[td]Language:  Spanish (fluent conversation)[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]3[/td]
+		[td]Mechanics 12-[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]3[/td]
+		[td]Paramedics 12-[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]3[/td]
+		[td]Streetwise 11-[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]3[/td]
+		[td]TF:  Mecha, Helicopters, Small Planes[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]6[/td]
+		[td]WF:  Common Melee Weapons, Small Arms, Earth Force Mecha Weapons[/td]
+	[/tr]
+
+[/table]
+
+[table]
+	[tr]
+		[td][b]Cost[/b][/td]
+		[td][b]TALENTS[/b][/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]4[/td]
+		[td]+2/+2d6 Striking Appearance (vs. anyone attracted to men)[/td]
+	[/tr]
+
+[/table]
+
+[table="width: 1024"]
+	[tr]
+		[td][b]COMPLICATIONS[/b][/td]
+		[td="align: right"][b]Value[/b][/td]
+	[/tr]
+
+	[tr]
+		[td]Hunted:  Sirians Infrequently (Mo Pow; Harshly Punish)[/td]
+		[td="align: right"]15[/td]
+	[/tr]
+
+	[tr]
+		[td]Hunted:  Tech Underground Infrequently (Mo Pow; Watching)[/td]
+		[td="align: right"]5[/td]
+	[/tr]
+
+	[tr]
+		[td]Social Complication:  Subject to Orders: Tech Underground Frequently, Major[/td]
+		[td="align: right"]15[/td]
+	[/tr]
+
+	[tr]
+		[td]Psychological Complication:  Needs to prove his manhood (Very Common; Strong)[/td]
+		[td="align: right"]20[/td]
+	[/tr]
+
+[/table]
+
+[table="width: 1024"]
+	[tr]
+		[td][b]BACKGROUND/HISTORY[/b][/td]
+	[/tr]
+	[tr]
+		[td]"Blazer" Machido was a young punk running around the southwest in a jeep when the Slissii came. He was trying to get away from the city where he had grown up. The kids had always treated him as a "pretty boy" and he was always fighting to try to get respect. When the aliens landed he went right on fighting and found his way into the Tech Underground.[/td]
+	[/tr]
+[/table]
+
+[table="width: 1024"]
+	[tr]
+		[td][b]CAMPAIGN_USE[/b][/td]
+	[/tr]
+	[tr]
+		[td]Mike "Blazer" Machido is a sample player character for <i>Robot Warriors</i>, and can also be used as an NPC robot pilot.[/td]
+	[/tr]
+[/table]
+
+[table="width: 1024"]
+	[tr]
+		[td][b]PERSONALITY[/b][/td]
+	[/tr]
+	[tr]
+		[td]Mike feels like he has a lot to prove.[/td]
+	[/tr]
+[/table]
+
+[b]Base Pts:[/b] 150
+[b]Exp Required:[/b] 0
+[b]Total Exp Available:[/b] 0
+[b]Exp Unspent:[/b] 0
+[b]Total Character Cost:[/b] 150

@@ -1,0 +1,376 @@
+
+
+
+[b]Andrew "Tex" Carlton <!--IF_ALTERNATE_IDS> - </IF_ALTERNATE_IDS>[/b]
+
+[table]
+	[tr]
+		[td="align: center"][b]VAL[/b][/td]
+		[td="align: center"][b]CHA[/b][/td]
+		[td="align: center"][b]Cost[/b][/td]
+		[td="align: center"][b]Total[/b][/td]
+		[td="align: center"][b]Roll[/b][/td]
+		[td="align: left"][b]Notes[/b][/td]
+	[/tr]
+
+	[tr]
+		[td="align: center"]15[/td]
+		[td="align: center"]STR[/td]
+		[td="align: center"]5[/td]
+		[td="align: center"]15[/td]
+		[td="align: center"]12-[/td]
+		[td="align: left"]HTH Damage 3d6  END [1][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]17[/td]
+		[td="align: center"]DEX[/td]
+		[td="align: center"]14[/td]
+		[td="align: center"]17[/td]
+		[td="align: center"]12-[/td]
+		[td="align: left"][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]13[/td]
+		[td="align: center"]CON[/td]
+		[td="align: center"]3[/td]
+		[td="align: center"]13[/td]
+		[td="align: center"]12-[/td]
+		[td="align: left"][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]13[/td]
+		[td="align: center"]INT[/td]
+		[td="align: center"]3[/td]
+		[td="align: center"]13[/td]
+		[td="align: center"]12-[/td]
+		[td="align: left"]PER Roll 12-[/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]10[/td]
+		[td="align: center"]EGO[/td]
+		[td="align: center"]0[/td]
+		[td="align: center"]10[/td]
+		[td="align: center"]11-[/td]
+		[td="align: left"][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]10[/td]
+		[td="align: center"]PRE[/td]
+		[td="align: center"]0[/td]
+		[td="align: center"]10[/td]
+		[td="align: center"]11-[/td]
+		[td="align: left"]PRE Attack: 2d6[/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]6[/td]
+		[td="align: center"]OCV[/td]
+		[td="align: center"]15[/td]
+		[td="align: center"]6[/td]
+		[td="align: center"][/td]
+		[td="align: left"][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]6[/td]
+		[td="align: center"]DCV[/td]
+		[td="align: center"]15[/td]
+		[td="align: center"]6[/td]
+		[td="align: center"][/td]
+		[td="align: left"][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]3[/td]
+		[td="align: center"]OMCV[/td]
+		[td="align: center"]0[/td]
+		[td="align: center"]3[/td]
+		[td="align: center"][/td]
+		[td="align: left"][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]3[/td]
+		[td="align: center"]DMCV[/td]
+		[td="align: center"]0[/td]
+		[td="align: center"]3[/td]
+		[td="align: center"][/td]
+		[td="align: left"][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]4[/td]
+		[td="align: center"]PD[/td]
+		[td="align: center"]2[/td]
+		[td="align: center"]4[/td]
+		[td="align: center"][/td]
+		[td="align: left"]4 PD (0 rPD)[/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]3[/td]
+		[td="align: center"]ED[/td]
+		[td="align: center"]1[/td]
+		[td="align: center"]3[/td]
+		[td="align: center"][/td]
+		[td="align: left"]3 ED (0 rED)[/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]3[/td]
+		[td="align: center"]SPD[/td]
+		[td="align: center"]10[/td]
+		[td="align: center"]3[/td]
+		[td="align: center"][/td]
+		[td="align: left"]Phases:  4, 8, 12[/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]6[/td]
+		[td="align: center"]REC[/td]
+		[td="align: center"]2[/td]
+		[td="align: center"]6[/td]
+		[td="align: center"][/td]
+		[td="align: left"][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]26[/td]
+		[td="align: center"]END[/td]
+		[td="align: center"]2[/td]
+		[td="align: center"]26[/td]
+		[td="align: center"][/td]
+		[td="align: left"][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]10[/td]
+		[td="align: center"]BODY[/td]
+		[td="align: center"]0[/td]
+		[td="align: center"]10[/td]
+		[td="align: center"][/td]
+		[td="align: left"][/td]
+	[/tr]
+
+
+	[tr]
+		[td="align: center"]25[/td]
+		[td="align: center"]STUN[/td]
+		[td="align: center"]3[/td]
+		[td="align: center"]25[/td]
+		[td="align: center"][/td]
+		[td="align: left"][/td]
+	[/tr]
+
+[/table]
+
+[table]
+	[tr]
+		[td][b]Movement[/b][/td]
+		[td][b]Combat[/b][/td]
+		[td][b]NCmbat[/b][/td]
+		[td][b]Notes[/b][/td]
+	[/tr]
+
+	[tr]
+		[td]Running[/td]
+		[td="align: center"]12m[/td]
+		[td="align: center"]24m[/td]
+		[td="align: left"]END [1][/td]
+	[/tr]
+
+
+	[tr]
+		[td]Swimming[/td]
+		[td="align: center"]4m[/td]
+		[td="align: center"]8m[/td]
+		[td="align: left"]END [1][/td]
+	[/tr]
+
+
+	[tr]
+		[td]Leaping[/td]
+		[td="align: center"]4m[/td]
+		[td="align: center"]8m[/td]
+		[td="align: left"]4m forward, 2m upward[/td]
+	[/tr]
+
+
+
+
+
+[/table]
+
+[table="width: 1024"]
+	[tr]
+		[td][b]Cost[/b][/td]
+		[td][b]POWERS[/b][/td]
+		[td][b]END[/b][/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]4[/td]
+		[td][b][i]Brawling: [/i][/b]Hand-To-Hand Attack +1d6 (5 Active Points); Hand-To-Hand Attack (-1/4)[/td]
+		[td="align: right"]1[/td]
+	[/tr]
+
+[/table]
+
+[table]
+	[tr]
+		[td][b]Cost[/b][/td]
+		[td][b]SKILLS[/b][/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]10[/td]
+		[td]+1 with All Attacks[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]7[/td]
+		[td]AK: American Southwest 16-[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]9[/td]
+		[td]Combat Driving 15-[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]9[/td]
+		[td]Combat Piloting 15-[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]5[/td]
+		[td]CuK: Alien Culture and Notables 14-[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]3[/td]
+		[td]Demolitions 12-[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]3[/td]
+		[td]Electronics 12-[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]5[/td]
+		[td]KS: Tech Underground 14-[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]3[/td]
+		[td]Mechanics 12-[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]4[/td]
+		[td]PS: Wildcatting (oil drilling) 13-[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]3[/td]
+		[td]Paramedics 12-[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]2[/td]
+		[td]Survival (Desert) 12-[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]2[/td]
+		[td]TF:  Mecha, Agricultural & Construction Vehicles, Small Planes[/td]
+	[/tr]
+
+	[tr]
+		[td="align: right"]4[/td]
+		[td]WF:  Small Arms, Earth Force Mecha[/td]
+	[/tr]
+
+[/table]
+
+[table="width: 1024"]
+	[tr]
+		[td][b]COMPLICATIONS[/b][/td]
+		[td="align: right"][b]Value[/b][/td]
+	[/tr]
+
+	[tr]
+		[td]Hunted:  Sirians Infrequently (Mo Pow; Harshly Punish)[/td]
+		[td="align: right"]15[/td]
+	[/tr]
+
+	[tr]
+		[td]Hunted:  Tech Underground Infrequently (Mo Pow; Watching)[/td]
+		[td="align: right"]5[/td]
+	[/tr]
+
+	[tr]
+		[td]Psychological Complication:  Devoted to Personal Freedom (Common; Strong)[/td]
+		[td="align: right"]15[/td]
+	[/tr]
+
+	[tr]
+		[td]Social Complication:  Subject to Orders: Tech Underground Frequently, Major[/td]
+		[td="align: right"]15[/td]
+	[/tr]
+
+[/table]
+
+[table="width: 1024"]
+	[tr]
+		[td][b]BACKGROUND/HISTORY[/b][/td]
+	[/tr]
+	[tr]
+		[td]"Tex" Carlton was a young man learning to be an independent oil driller, or wild cat, when the Slissii landed. His knowledge of the desert, his ability to take care of himself, his ability to drive and fly, and his love of the freedom of the desert made him an early member of the Tech Underground.[/td]
+	[/tr]
+[/table]
+
+[table="width: 1024"]
+	[tr]
+		[td][b]CAMPAIGN_USE[/b][/td]
+	[/tr]
+	[tr]
+		[td]Andrew "Tex" Carlton is a sample player character for <i>Robot Warriors</i>, and can also be used as an NPC robot pilot.[/td]
+	[/tr]
+[/table]
+
+[table="width: 1024"]
+	[tr]
+		[td][b]PERSONALITY[/b][/td]
+	[/tr]
+	[tr]
+		[td]Tex is strongly devoted to personal freedom.[/td]
+	[/tr]
+[/table]
+
+[b]Base Pts:[/b] 150
+[b]Exp Required:[/b] 0
+[b]Total Exp Available:[/b] 0
+[b]Exp Unspent:[/b] 0
+[b]Total Character Cost:[/b] 147
